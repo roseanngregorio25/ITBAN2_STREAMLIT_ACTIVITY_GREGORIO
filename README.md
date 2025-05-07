@@ -25,7 +25,7 @@ Here, you will see a clear and interactive view of how COVID-19 has been trendin
 It also helps you visualize how these numbers have been changing daily with an easy-to-read line chart. Want a quick sense of the overall impact? There’s a pie chart showing the proportion of total cases, deaths, and recoveries. And if you're someone who likes digging into the raw numbers, you can check a box to view the full data table too. It’s a simple, informative dashboard that helps make sense of COVID-19 data at a glance.
 
 ![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/b84f8a598b07d377e986162fbc86b2782d88adbe/Screenshot%20(233).png)
-
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/fac9e443a3980673618ab1fb6d25e359b090a39d/activity5_gregorio.png)
 TASK5
 When you open it, you're asked to log in. If you enter the correct username and password, you're welcomed to the School Management Dashboard.
 From there, you can look at two tables: one for faculty and another for subjects. You can see all the existing data, or filter it using custom queries—like only showing faculty from the Math department.
