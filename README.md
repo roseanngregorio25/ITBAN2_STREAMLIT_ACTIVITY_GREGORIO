@@ -6,6 +6,7 @@
 TASK1 
 This Streamlit app offers a simple and friendly way for users to enter their information. When you open it, you’re greeted with a welcoming title and a clear prompt to fill out a short form. The form asks for your email address and a 4-digit PIN, with the PIN safely hidden as you type it. Once you hit "Submit," the app lets you know your information was received and then shows the email you entered, while keeping your PIN private by displaying it as asterisks. It’s a clean, straightforward experience designed to feel secure and easy to use.
 
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/2abfb7b299d46ff7cb357ab17c2af605a7c4a97c/Screenshot%20(228).png)
 TASK2
 This also makes it easy for anyone to explore and filter data from a CSV file without needing any coding skills. When you open the app, you're asked to upload a CSV file using the sidebar. Once the file is uploaded, the app gives you a quick preview of the data so you can see what you're working with. You can choose to view the full raw dataset if needed. Then, using the sidebar, you can pick a column to filter and select specific values you’re interested in. The app instantly shows you the filtered results and even gives you the option to download them as a new CSV file. If you haven’t uploaded a file yet or selected any filter values, it gently reminds you to do so. It’s a user-friendly tool designed to make working with data feel simple and accessible.
 
