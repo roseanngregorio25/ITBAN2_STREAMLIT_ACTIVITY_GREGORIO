@@ -5,12 +5,13 @@
 
 TASK1 
 This Streamlit app offers a simple and friendly way for users to enter their information. When you open it, you’re greeted with a welcoming title and a clear prompt to fill out a short form. The form asks for your email address and a 4-digit PIN, with the PIN safely hidden as you type it. Once you hit "Submit," the app lets you know your information was received and then shows the email you entered, while keeping your PIN private by displaying it as asterisks. It’s a clean, straightforward experience designed to feel secure and easy to use.
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/190119915e2c64f91ef2d4b843c484c659b74b9b/Screenshot%20(227).png)
 
-![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/2abfb7b299d46ff7cb357ab17c2af605a7c4a97c/Screenshot%20(228).png)
 ![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/5344242debc1ba06cf06d305854be5464a3b75e3/activity2_gregorio.png)
 TASK2
 This also makes it easy for anyone to explore and filter data from a CSV file without needing any coding skills. When you open the app, you're asked to upload a CSV file using the sidebar. Once the file is uploaded, the app gives you a quick preview of the data so you can see what you're working with. You can choose to view the full raw dataset if needed. Then, using the sidebar, you can pick a column to filter and select specific values you’re interested in. The app instantly shows you the filtered results and even gives you the option to download them as a new CSV file. If you haven’t uploaded a file yet or selected any filter values, it gently reminds you to do so. It’s a user-friendly tool designed to make working with data feel simple and accessible.
 
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/2abfb7b299d46ff7cb357ab17c2af605a7c4a97c/Screenshot%20(228).png)
 TASK3
 In this task, you will discover that this app is designed as a helpful learning tool for anyone wanting to understand the basics of Data Warehousing and Enterprise Data ManagemenT. When you open it, you’ll see a sidebar where you can pick a topic—like ETL processes, data integration, or performance tips—and the app will instantly show easy-to-digest explanations and examples related to that topic. There's also an expandable introduction section that gives you a quick overview of what data warehousing and EDM are all about.
 To make the learning experience even richer, the app includes tabs at the bottom that dive into advanced topics like real-time analytics, cloud-based warehousing, and data archiving strategies. Whether you’re just starting out or brushing up on your knowledge, this app breaks down complex ideas into manageable, practical insights in a friendly, interactive format.
