@@ -17,6 +17,9 @@ TASK3
 In this task, you will discover that this app is designed as a helpful learning tool for anyone wanting to understand the basics of Data Warehousing and Enterprise Data ManagemenT. When you open it, you’ll see a sidebar where you can pick a topic—like ETL processes, data integration, or performance tips—and the app will instantly show easy-to-digest explanations and examples related to that topic. There's also an expandable introduction section that gives you a quick overview of what data warehousing and EDM are all about.
 To make the learning experience even richer, the app includes tabs at the bottom that dive into advanced topics like real-time analytics, cloud-based warehousing, and data archiving strategies. Whether you’re just starting out or brushing up on your knowledge, this app breaks down complex ideas into manageable, practical insights in a friendly, interactive format.
 
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/1154ec7c8132a0dce084326967ee37a9b3166909/Screenshot%20(231).png)
+
+
 TASK4
 Here, you will see a clear and interactive view of how COVID-19 has been trending in the past month for a country you select—like the USA, India, or the Philippines. Just choose a country from the sidebar, and it instantly shows you key numbers for the most recent day: new cases, new deaths, and new recoveries.
 It also helps you visualize how these numbers have been changing daily with an easy-to-read line chart. Want a quick sense of the overall impact? There’s a pie chart showing the proportion of total cases, deaths, and recoveries. And if you're someone who likes digging into the raw numbers, you can check a box to view the full data table too. It’s a simple, informative dashboard that helps make sense of COVID-19 data at a glance.
