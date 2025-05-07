@@ -1,5 +1,5 @@
-![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/0ce3fb91be69e529d451a95239e608d654ebbbcd/Screenshot%20(227).png)
 
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/9026fdd19b77d127ab51cb41fa42a06df63af6f0/Screenshot%20(235).png)
 ![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/05d21badd7aa1186d6ff60adb0bb84c0c9bfaf02/activity1_gregorio.png)
 
 
