@@ -34,5 +34,7 @@ From there, you can look at two tables: one for faculty and another for subjects
 Want to add someone new? No problem—you just fill out a quick form, hit submit, and your new record gets added right to the database. It’s an easy, secure way for school admins or staff to view and update data without having to write raw SQL or use a complicated database interface.
 
 ![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/b84f8a598b07d377e986162fbc86b2782d88adbe/Screenshot%20(233).png)
+
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/c8b31a4898288c824e0c2a163cccd66596875f6d/activity6_gregorio.png)
 TASK6
 After launching, your camera turns on, and you see a live video feed. You can tweak the look in real time—brighten it up, boost the contrast, or have fun applying effects like black-and-white, soft blur, sketch-style edges, or even a warm sepia tone. When you’re happy with the look, just click the Take Snapshot button. The app instantly captures the current frame, saves it with today’s date and time, and lets you know the snapshot is saved. It’s a creative and playful tool for taking filtered selfies or experimenting with visual effects live.
