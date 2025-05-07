@@ -18,7 +18,7 @@ In this task, you will discover that this app is designed as a helpful learning 
 To make the learning experience even richer, the app includes tabs at the bottom that dive into advanced topics like real-time analytics, cloud-based warehousing, and data archiving strategies. Whether you’re just starting out or brushing up on your knowledge, this app breaks down complex ideas into manageable, practical insights in a friendly, interactive format.
 
 ![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/1154ec7c8132a0dce084326967ee37a9b3166909/Screenshot%20(231).png)
-
+![image alt](https://github.com/roseanngregorio25/ITBAN2_STREAMLIT_ACTIVITY_GREGORIO/blob/d1dd8f98366e3dc2cdcb957528e809958474939a/activity4_gregorio.png)
 
 TASK4
 Here, you will see a clear and interactive view of how COVID-19 has been trending in the past month for a country you select—like the USA, India, or the Philippines. Just choose a country from the sidebar, and it instantly shows you key numbers for the most recent day: new cases, new deaths, and new recoveries.
